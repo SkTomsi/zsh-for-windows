@@ -1,4 +1,5 @@
 <img src="img/ss.png" width=100%>
+
 # ZSH for Windows
 
 prolly the best way to get fancy and feature rich terminal to look cool among ur friends xD
