@@ -58,4 +58,4 @@ db_home: cygdrive/d/example/home/directory
 
       `plugins=( [plugins...] zsh-syntax-highlighting)`
 
-### Setting up Windows terminal to use ZSH Shell
+### 3.Setting up Windows terminal to use ZSH Shell
