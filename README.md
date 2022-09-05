@@ -49,7 +49,7 @@ db_home: cygdrive/d/example/home/directory
     - To install plugins just go to your root user folder, open `.zshrc` and you will find a variable plugins. Simply add the plugins you want to install with spaces `plugins=(git z zsh-autosuggestions)`
     - **Z** = saves the locations you visit the most, so that you can access it in one shot
     - **git** = brings many aliases in the command line
-    - **Auto suggestions** = automatically suggests the code to type and autocomplete,  has to be installed manually not internally available 
+    - **Auto suggestions** = automatically suggests the code to type and autocomplete,  has to be installed manually not        internally available 
       run `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
     - **Syntax Highlighting** = Clone this repository in oh-my-zsh's plugins directory:
       `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
