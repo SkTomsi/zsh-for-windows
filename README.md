@@ -1,4 +1,4 @@
-<img src="img/ss.png" width=100%>
+<img src="img/final.png" width=100%>
 
 # ZSH for Windows
 
