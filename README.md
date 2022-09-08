@@ -60,4 +60,59 @@ db_home: cygdrive/d/example/home/directory
       `plugins=( [plugins...] zsh-syntax-highlighting)`
 
 ### 3.Setting up Windows terminal to use ZSH Shell
+*Running cygwin on windows terminal to use zsh Shell*
+
+- Open windows terminal settings and Add a new empty profile.
+- Give it a name for eg: Zsh, and paste this in the commandline field
+```
+C:/cygwin64/bin/zsh.exe -i -l
+```
+- Give the starting location of your choice or leave it as it is.
+- For zsh icon download the .ico file from the resources included and paste the path to it in the icon field.
+- Lastly set zsh as the default profile to loaded on startup 
+*For custom color scheme which im using* 
+
+- Click on the open JSON file at the bottom of setting page
+- under "Schemes" paste the following object: 
+        
+        {
+            "background": "#1B1029",
+            "black": "#0C0C0C",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#3B78FF",
+            "brightCyan": "#3A96DD",
+            "brightGreen": "#0DF802",
+            "brightPurple": "#B4009E",
+            "brightRed": "#E74856",
+            "brightWhite": "#CBF9F5",
+            "brightYellow": "#C3CC1A",
+            "cursorColor": "#0DF802",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#0DF802",
+            "name": "codingphase",
+            "purple": "#881798",
+            "red": "#C50F1F",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CBF9F5",
+            "yellow": "#FFFB00"
+        }
+- save the file and go to appearance and select codingphase from the colorScheme
+
+*For changing the font to which im using*
+
+- Download and install the theme provided in the resources.
+- Change the font to mononokai under appearance fontface.
+
+#### Thats it!!!!!! Now you have a custom terminal. explore more about zsh plugins and other features on the internet
+
+## Acknowledgements
+
+ - [Setting up Windows Terminal](https://theflying.dev/digital-garden/setting-up-windows-terminal/)
+ - [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+ - [Installing ZSH on Windows](https://dev.to/zinox9/installing-zsh-on-windows-37em)
+ - [How to Customize Windows 10 Terminal Like A Pro](https://www.youtube.com/watch?v=ialuEXkoKr0&t=621s)
+
+
 
