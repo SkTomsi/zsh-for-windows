@@ -105,7 +105,7 @@ C:/cygwin64/bin/zsh.exe -i -l
 - Download and install the theme provided in the resources.
 - Change the font to mononokai under appearance fontface.
 
-#### Thats it!!!!!! Now you have a custom terminal. explore more about zsh plugins and other features on the internet
+#### Thats it!!!!!! Now you have a custom terminal. Explore more about zsh plugins and other features on the internet to make your terminal more powerfull
 
 ## Acknowledgements
 
